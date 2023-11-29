@@ -1,0 +1,235 @@
+Ban muon hien thi may so sau dau phay: 8
+Bac cua da thuc: 4
+Cac he so cua da thuc:
+He so a0: 1.00000000
+He so a1: -5.00000000
+He so a2: 3.00000000
+He so a3: 5.00000000
+He so a4: -3.00000000
+
+_______________________
+Cau 1: Tim mien chua nghiem cua phuong trinh da thuc fx
+fx nam trong mat tron tam O, R: 6.00000000
+Mien chua nghiem la: 
+Can duoi : -1.00000000
+Can tren : 6.00000000
+Khoang cach ly thu 1
+
+Can duoi: -1.00000000
+Can tren: -0.43618982
+
+Khoang cach ly thu 2
+
+Can duoi: -0.34760266
+Can tren: 0.92166986
+
+Khoang cach ly thu 3
+
+Can duoi: 1.07512061
+Can tren: 3.12133009
+
+Khoang cach ly thu 4
+
+Can duoi: 3.17685236
+Can tren: 6.00000000
+
+_______________________ 
+Cau 2: Thu hep khoang phan ly
+Khoang cach ly ban dau:
+
+Can duoi: -1.00000000
+Can tren: -0.43618982
+
+Lan lap thu 1
+
+Can duoi: -1.00000000
+Can tren: -0.71809491
+
+_______________________ 
+Cau 2: Thu hep khoang phan ly
+Khoang cach ly ban dau:
+
+Can duoi: -0.34760266
+Can tren: 0.92166986
+
+Lan lap thu 1
+
+Can duoi: 0.28703360
+Can tren: 0.92166986
+
+Lan lap thu 2
+
+Can duoi: 0.28703360
+Can tren: 0.60435173
+
+_______________________ 
+Cau 2: Thu hep khoang phan ly
+Khoang cach ly ban dau:
+
+Can duoi: 1.07512061
+Can tren: 3.12133009
+
+Lan lap thu 1
+
+Can duoi: 1.07512061
+Can tren: 2.09822535
+
+Lan lap thu 2
+
+Can duoi: 1.07512061
+Can tren: 1.58667298
+
+Lan lap thu 3
+
+Can duoi: 1.33089679
+Can tren: 1.58667298
+
+_______________________ 
+Cau 2: Thu hep khoang phan ly
+Khoang cach ly ban dau:
+
+Can duoi: 3.17685236
+Can tren: 6.00000000
+
+Lan lap thu 1
+
+Can duoi: 3.17685236
+Can tren: 4.58842618
+
+Lan lap thu 2
+
+Can duoi: 3.88263927
+Can tren: 4.58842618
+
+Lan lap thu 3
+
+Can duoi: 3.88263927
+Can tren: 4.23553272
+
+_______________________ 
+Cau 2: Thu hep khoang phan ly
+Khoang cach ly ban dau:
+
+Can duoi: 0.00000000
+Can tren: 0.00000000
+Khong co khoang phan ly nay
+_______________________
+Cau 3: Tim nghiem gan dung voi so lan lap n
+Nghiem cua phuong trinh la: 1.400318
+ nhap a: 1.30000000
+ nhap b: 1.70000000
+ nhap n: 18
+ Diem Fourier: 1.70000000
+
+ So lan lap: 18
+Nghiem cua phuong trinh:
+1. x = 1.37103060
+2. x = 1.39239556
+3. x = 1.39822218
+4. x = 1.39976707
+5. x = 1.40017360
+6. x = 1.40028035
+7. x = 1.40030838
+8. x = 1.40031573
+9. x = 1.40031766
+10. x = 1.40031817
+11. x = 1.40031830
+12. x = 1.40031833
+13. x = 1.40031834
+14. x = 1.40031834
+15. x = 1.40031835
+16. x = 1.40031835
+17. x = 1.40031835
+18. x = 1.40031835
+
+_______________________
+Cau 4: Tim nghiem gan dung voi sai so e
+Nghiem cua phuong trinh la: 1.40031834
+So lan lap: 1
+ nhap a: 1.30000000
+ nhap b: 1.70000000
+ nhap sai so: 0.00000010
+ Diem Fourier: 1.700000
+
+ nhap lua chon: 1
+Cong thuc |f(x)|/m
+Nghiem cua phuong trinh la: 1.40031834
+ Tinh n bang CT (b-a)/2^n: 22
+ n la so lan phai lap
+_______________________
+Cau 4: Tim nghiem gan dung voi sai so e
+Nghiem cua phuong trinh la: 1.40031834
+So lan lap: 1
+nhap a: 1.30000000
+ nhap b: 1.70000000
+ nhap sai so: 0.00000010
+ Diem Fourier: 1.700000
+
+ nhap lua chon: 2
+Cong thuc (M-m)*|xn-xn-1|/m
+Nghiem cua phuong trinh la: 1.400318
+ Tinh n bang CT (b-a)/2^n: 22
+ n la so lan phai lap
+ nhap lua chon: 2
+_______________________
+Cau 5: Tm nghiem gan dung cua Xn
+Nghiem cua phuong trinh la: 1.40031834
+ nhap a:1.30000000
+ nhap b: 1.70000000
+ nhap epsilon: 0.00000010
+ Diem Fourier: 1.70000000
+
+Nghiem cua phuong trinh:
+1. x = 1.37103060
+2. x = 1.39239556
+3. x = 1.39822218
+4. x = 1.39976707
+5. x = 1.40017360
+6. x = 1.40028035
+7. x = 1.40030838
+8. x = 1.40031573
+9. x = 1.40031766
+10. x = 1.40031817
+11. x = 1.40031830
+12. x = 1.40031833
+13. x = 1.40031834
+14. x = 1.40031834
+15. x = 1.40031835
+16. x = 1.40031835
+17. x = 1.40031835
+18. x = 1.40031835
+19. x = 1.40031835
+20. x = 1.40031835
+21. x = 1.40031835
+22. x = 1.40031835
+
+Ban muon hien thi may so sau dau phay: 8
+Bac cua da thuc: 4
+Cac he so cua da thuc:
+He so a0: 1.00000000
+He so a1: -5.00000000
+He so a2: 3.00000000
+He so a3: 5.00000000
+He so a4: -3.00000000
+
+_______________________
+Cau 1: Tim mien chua nghiem cua phuong trinh da thuc fx
+Khoang cach ly thu 1
+
+Can duoi: -1.00000000
+Can tren: -0.39718506
+
+Khoang cach ly thu 2
+
+Can duoi: -0.39718506
+Can tren: 0.99999266
+
+Khoang cach ly thu 3
+
+Can duoi: 0.99999266
+Can tren: 3.14717825
+
+Khoang cach ly thu 4
+
+Can duoi: 3.14717825
+Can tren: 6.00000000
